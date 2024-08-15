@@ -30,25 +30,25 @@ Este bootcamp gratuito foi oferecido pela Claro e inclui mentorias de experts da
 
 Aqui você encontrará os projetos desenvolvidos durante o bootcamp, divididos em pastas conforme o progresso no curso:
 
-1. **Projeto 1: [Nome do Projeto]**
-   - Descrição: [Breve descrição do projeto]
-   - Tecnologias: [Java, Spring, etc.]
+1. **Projeto 1:**
+   - Descrição:
+   - Tecnologias: 
 
-2. **Projeto 2: [Nome do Projeto]**
-   - Descrição: [Breve descrição do projeto]
-   - Tecnologias: [Java, Spring, etc.]
+2. **Projeto 2:**
+   - Descrição:
+   - Tecnologias:
 
-3. **Projeto 3: [Nome do Projeto]**
-   - Descrição: [Breve descrição do projeto]
-   - Tecnologias: [Java, Spring, etc.]
+3. **Projeto 3:**
+   - Descrição:
+   - Tecnologias:
 
-4. **Projeto 4: [Nome do Projeto]**
-   - Descrição: [Breve descrição do projeto]
-   - Tecnologias: [Java, Spring, etc.]
+4. **Projeto 4:**
+   - Descrição: 
+   - Tecnologias: 
 
-5. **Projeto 5: [Nome do Projeto]**
-   - Descrição: [Breve descrição do projeto]
-   - Tecnologias: [Java, Spring, etc.]
+5. **Projeto 5:**
+   - Descrição:
+   - Tecnologias:
 
 ## Como Executar os Projetos
 
