@@ -1,4 +1,4 @@
-# Bootcamp: Construa uma API com Java e Spring de ponta a ponta!
+# Bootcamp: Claro - Java com Spring Boot
 
 Este repositório contém todos os projetos e desafios desenvolvidos durante o Bootcamp "Construa uma API com Java e Spring de ponta a ponta!". Este curso abrange desde os fundamentos básicos de Java até práticas avançadas com Spring, incluindo TDD, system design com microsserviços e deploy na AWS.
 
