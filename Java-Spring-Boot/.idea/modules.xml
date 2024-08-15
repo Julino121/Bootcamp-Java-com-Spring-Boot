@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Spring-Boot.iml" filepath="$PROJECT_DIR$/Java-Spring-Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sintaxe Basica/Sintaxe Basica.iml" filepath="$PROJECT_DIR$/Sintaxe Basica/Sintaxe Basica.iml" />
     </modules>
   </component>
