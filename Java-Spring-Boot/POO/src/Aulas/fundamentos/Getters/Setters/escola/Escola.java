@@ -1,4 +1,4 @@
-package Aulas.fundamentos.escola;
+package Aulas.fundamentos.Getters.Setters.escola;
 
 
 public class Escola {
