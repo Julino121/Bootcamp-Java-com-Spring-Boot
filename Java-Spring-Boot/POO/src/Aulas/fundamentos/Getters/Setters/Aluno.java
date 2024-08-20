@@ -1,4 +1,4 @@
-package Aulas.fundamentos.Getters.Setters.escola;
+package Aulas.fundamentos.Getters.Setters;
 
 public class Aluno {
     private String nome;
